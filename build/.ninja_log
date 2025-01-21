@@ -1,0 +1,21 @@
+# ninja log v6
+29	2215	7564147514313011	CMakeFiles/lab6.dir/model/model_primitive.cpp.obj	c76de1ba309826cd
+44	2285	7564147514463179	CMakeFiles/lab6.dir/model/model_rectangle.cpp.obj	838bead5e5716b2c
+35	2296	7564147514377949	CMakeFiles/lab6.dir/model/model_square.cpp.obj	d1a417dbfd55d00e
+13	2687	7564147514152251	CMakeFiles/lab6.dir/controller/controller_document.cpp.obj	361af34d850cea8c
+8	2353	7564147514106966	CMakeFiles/lab6.dir/controller/controller.cpp.obj	3d540fc565f36621
+3	2478	7564147514051716	CMakeFiles/lab6.dir/main.cpp.obj	b2a0c387c88f496f
+2688	2952	7564147540902029	lab6.exe	1a8c95abdc8c446e
+51	2504	7564147514538043	CMakeFiles/lab6.dir/view/view.cpp.obj	fcb600a666eaba72
+22	2526	7564147514243212	CMakeFiles/lab6.dir/model/model_document.cpp.obj	aba2e3ad46c37e21
+17	2609	7564147514202123	CMakeFiles/lab6.dir/controller/controller_primitive.cpp.obj	bf98bd096d02d5cc
+32	709	7592007947442947	CMakeFiles/lab6.dir/model/model_primitive.cpp.obj	8957ce0e43e4b538
+39	726	7592007947506999	CMakeFiles/lab6.dir/model/model_rectangle.cpp.obj	9b432f48c12d8b75
+35	727	7592007947463445	CMakeFiles/lab6.dir/model/model_square.cpp.obj	10595d97c0cc79f0
+21	797	7592007947284723	CMakeFiles/lab6.dir/controller/controller.cpp.obj	b56764796bfca537
+18	851	7592007947284723	CMakeFiles/lab6.dir/main.cpp.obj	786d2cb20ca85cf1
+42	907	7592007947539844	CMakeFiles/lab6.dir/view/view.cpp.obj	dc318231c8eb40ad
+30	932	7592007947411145	CMakeFiles/lab6.dir/model/model_document.cpp.obj	719755b1842bebcf
+26	944	7592007947284723	CMakeFiles/lab6.dir/controller/controller_primitive.cpp.obj	acf312c6d5be0884
+24	992	7592007947284723	CMakeFiles/lab6.dir/controller/controller_document.cpp.obj	47ae66e5910e5cd5
+992	1176	7592007956962956	lab6.exe	8c19afc873551893
